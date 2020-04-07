@@ -1,0 +1,6 @@
+beautifulsoup4
+matplotlib
+numpy
+python-slugify
+requests
+scipy
