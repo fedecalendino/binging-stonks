@@ -43,7 +43,7 @@ def search(search_content: str) -> Show:
     )
 
     show.plot = data.get("Plot", "No plot found")
-    show.year = int(data["Released"][-4:])
+    show.year = int(data["Year"][:4])
     show.poster = data.get("Poster")
     show.rating = float(data.get("imdbRating", 0.0))
     show.votes = int(re.sub(r"[^\d]", "", data.get("imdbVotes", "0")))

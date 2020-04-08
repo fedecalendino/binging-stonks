@@ -19,7 +19,8 @@ SHOWS = [
     "Gravity Falls",
     "tt1355642",  # Fullmetal Alchemist: Brotherhood
     "Death Note",
-    "Community"
+    "Community",
+    "tt1219024",  # Castle
 ]
 
 for title in SHOWS:
