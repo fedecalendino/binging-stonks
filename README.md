@@ -21,6 +21,8 @@ Based on the now [deprecated service called "TV Graph"](https://web.archive.org/
 
 The only requirement to run this script locally is to ask [OMDB] an API Key for you here: http://www.omdbapi.com/apikey.aspx. Once you have it you can set it up as an enviroment variable named `OMDB_API_KEY` (as seen [here](https://github.com/federicocalendino/binging-stonks/blob/master/src/integrations/omdb.py#L11)).
 
+To search for a show you can use its title `The Office` or its imdb_id `tt0386676` (https://www.imdb.com/title/tt0386676). 
+
 
 ## Notes: 
 

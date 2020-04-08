@@ -12,6 +12,14 @@ SHOWS = [
     "Better Call Saul",
     "Game of Thrones",
     "House of Cards",
+    "Person of Interest",
+    "The Office",
+    "Dexter",
+    "Scrubs",
+    "Gravity Falls",
+    "tt1355642",  # Fullmetal Alchemist: Brotherhood
+    "Death Note",
+    "Community"
 ]
 
 for title in SHOWS:
