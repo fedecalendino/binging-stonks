@@ -23,7 +23,6 @@ def _setup(show: Show):
     fig = plt.figure(
         figsize=(10 + 5 * max(show.episode_count / 25, 1), 7.5),
         dpi=80,
-        facecolor=BACKGROUND
     )
 
     ax = plt.axes(facecolor=BACKGROUND)
