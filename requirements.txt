@@ -1,1 +1,4 @@
-IMDbPY
+imdbpy
+matplotlib
+numpy
+scipy
