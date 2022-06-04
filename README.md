@@ -5,15 +5,15 @@ Based on the now [deprecated service called "TV Graph"](https://web.archive.org/
 ## Examples
 
 ### Does your favorite TV show had as much stonks as you thought?
-![Avatar: The Last Airbender](/img/avatar-the-last-airbender.png)
+![Avatar: The Last Airbender](./img/avatar-the-last-airbender.png)
 
 ### Does the sequel/prequel worth investing like its predecessor?
-![Breaking Bad](/img/breaking-bad.png)
-![Better Call Saul](/img/better-call-saul.png)
+![Breaking Bad](./img/breaking-bad.png)
+![Better Call Saul](./img/better-call-saul.png)
 
 ### Should you invest on a show or it will get fucked up in the end? (not stonks)
-![Game of Thrones](/img/game-of-thrones.png)
-![House of Cards](/img/house-of-cards.png)
+![Game of Thrones](./img/game-of-thrones.png)
+![House of Cards](./img/house-of-cards.png)
 
 
 
@@ -38,4 +38,4 @@ To search for a show you can use its title `The Office` or its imdb_id `tt038667
 ----
 
 
-![Stonks](/resources/stonks.jpg)
+![Stonks](./resources/stonks.jpg)
