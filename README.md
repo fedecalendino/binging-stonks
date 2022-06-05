@@ -12,16 +12,21 @@ Based on the now [deprecated service called "TV Graph"](https://web.archive.org/
 
 ### Does your favorite TV show had as much stonks as you thought?
 ![Avatar: The Last Airbender](./img/avatar-the-last-airbender.png)
+![Gravity Falls](./img/gravity-falls.png)
 
-### Does the sequel/prequel worth investing like its predecessor?
+### Is it worth to invest your time on the sequel/prequel of a good show?
 ![Breaking Bad](./img/breaking-bad.png)
 ![Better Call Saul](./img/better-call-saul.png)
 
-### Should you invest on a show or it will get fucked up in the end? (not stonks)
+### Is it worth to invest your time on a show or it will go south by the end? (not stonks)
 ![Game of Thrones](./img/game-of-thrones.png)
 ![House of Cards](./img/house-of-cards.png)
 
+### Is it worth to invest your time that show everyone talks about?
+![The Office](./img/the-office.png)
 
+### Is that old show really THAT good?
+![The Office](./img/the-wire.png)
 
 
 ----
